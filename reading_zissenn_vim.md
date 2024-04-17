@@ -5,7 +5,7 @@
   f+ s ;.
 
 #### tip5
-  * cw n.
+  cw n.
   nnnnnnn
 
 ドッドは挿入モードになった瞬間から抜けるまでを繰り返す
@@ -17,8 +17,4 @@
   C-a 加算
   C-x 減算
 
-.blog, .news { background-image: url(/sprite.png); }
-.blog, { background-position: 0px 0px }
-.blog, { background-position: 180px 0px }
-.news { background-position: -180px 0px }
 
