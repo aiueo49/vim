@@ -30,3 +30,31 @@
   オペレータコマンドを連続入力すると、現在の行に適応される dd >>
   例外gUgU gUU
 
+#### tip14
+  C-o 挿入ノーマルモード
+
+#### tip17
+  挿入モードで計算して答えを返す
+  A C-r = 計算式 CR
+  
+#### tip19
+  置換 R
+  一文字置換してノーマルモードへ戻る　r   (gr)
+
+#### tip20
+  viw 単語選択 
+  c   削除して挿入モード 
+
+#### tip21
+  v
+  V
+  C-v
+  o
+
+Select from here to here.
+    aaadfda
+    aaaaa
+    aaaa
+    aaaadffe
+aa
+
