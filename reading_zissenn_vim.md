@@ -51,10 +51,8 @@
   C-v
   o
 
-Select from here to here.
-    aaadfda
-    aaaaa
-    aaaa
-    aaaadffe
-aa
+#### tip22
+  gUit タグの中身を大文字に　
+  .が使える
+  .を使った繰り返しをするなら、ビジュアルモードに入るよりオペレータとモーションを。
 
