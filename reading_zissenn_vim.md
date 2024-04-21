@@ -56,3 +56,17 @@
   .が使える
   .を使った繰り返しをするなら、ビジュアルモードに入るよりオペレータとモーションを。
 
+#### tip23
+  gUit .で繰り返しができる強み
+
+<a href="#">ONE</a>
+<a href="#">TWO</a>
+<a href="#">THREE</a>
+
+chapter  |   page
+-----------------
+normal   |   aaaa
+aaaaaa   |   aaaa
+aaaaaa   |   eeee
+
+
