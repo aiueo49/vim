@@ -63,6 +63,66 @@ f{char}  charまでジャンプ
 
 
 
+aaaaa aaaaa aeeaaaa
+aaaaa
+
+cw
+
+
+---第一部モード
+
+アンドゥはコントロール可能
+アンドゥの単位を考えてESCを使う
+例：改行　<CR>  --> <Esc>o
+
+daw = delete a wordで覚える
+The end is night
 
 
 
+
+
+
+
+
+
+.blog, .news { background-image: url(/sprite.png); }
+.blog { background-position: 0px 0px
+.news { background-position: -180px 0px
+
+5
+C-a 加算
+C-x 減算
+
+オペレータ
+c  
+d  
+
+    fantastic
+FANTASTIC
+
+shouty
+
+dawの応用
+guaw
+gUaw
+
+ap
+パラグラフ全体に適応
+
+AAAAAAAEEEEEEEEEEUUUUUUUUUUUUUUU
+
+
+k
+
+
+オペレータは現在の行に適応する
+dd
+>>
+gugu
+gUgU(gUU)
+
+
+---
+
+第３章
