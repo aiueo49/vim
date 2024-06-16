@@ -204,3 +204,30 @@ Vra
 第５章
 
 
+コマンドモード
+
+
+3G dd
+と
+:3d
+は等価
+
+var foo = 1
+var foo = 1
+var foo = 1
+var foo = 1
+var foo = 1
+var foo = 1
+var foo = 1
+var foo = 1
+var foo = 1
+var foo = 1
+var foo = 1
+
+
+:! でコマンドラインが使える
+
+:shellでいっぱいコマンドライン、終わり方はexit
+
+同じだが、C-zでも可能　終わり方はfg enter
+
