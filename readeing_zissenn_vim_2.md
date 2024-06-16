@@ -126,3 +126,33 @@ gUgU(gUU)
 ---
 
 第３章
+
+C-o で挿入ノーマルモード
+
+Practical Vim, by Drew Neil
+Read Drew Neil's Practical Vim.
+Practical Vim, by Drew Neil
+Read Drew Neil's Practical Vim.
+Practical Vim, by Drew Neil
+Read Drew Neil's Practical Vim.
+
+yt,
+
+C-r 0
+
+Typing in Insert mode extends the line, but in Replace mode the line length doesn't change.
+Typing in Insert mode extends the line, but in Replace mode the line length doesn't change.
+Typing in Insert mode extends the line, but in Replace mode the line length doesn't change.
+Typing in Insert mode extends the line, but in Replace mode the line length doesn't change.
+Typing in Insert mode extends the line, but in Replace mode the line length doesn't change.
+
+
+R 強い置換
+r 一文字置換
+
+
+---
+
+第４章
+
+
